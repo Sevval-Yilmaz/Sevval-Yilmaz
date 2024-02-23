@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sevval!
+- 👀 I’m interested in software development and reading books. 
+- 🌱 I’m currently learning how to build my own website.
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: sometimes I crochet ;)
