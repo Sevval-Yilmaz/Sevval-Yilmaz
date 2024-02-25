@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Sevval!
-- 👀 I’m interested in software development and reading books. 
-- 🌱 I’m currently learning how to build my own website.
-- ⚡ Fun fact: sometimes I crochet ;)
+I am a second-year software design student at TH Aschaffenburg, passionate about exploring the realms of coding, machine learning, and building robust applications.
