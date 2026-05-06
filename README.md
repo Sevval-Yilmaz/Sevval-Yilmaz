@@ -1,5 +1,4 @@
 # Hi, I'm Sevval 👩🏻‍💻
-
 Junior Software Developer | Java, Spring Boot & Angular
 
 ## About Me
@@ -9,37 +8,27 @@ Junior Software Developer | Java, Spring Boot & Angular
 - Currently developing a Banking Backend API
 
 ## Tech Stack
-
 ### Backend
 ![Backend](https://skillicons.dev/icons?i=java,spring,postgres,hibernate)
-
 ### Frontend
 ![Frontend](https://skillicons.dev/icons?i=angular,ts,html,css)
-
 ### Tools
-![Tools](https://skillicons.dev/icons?i=git,docker,postman)
+![Tools](https://skillicons.dev/icons?i=git,docker,kubernetes,postman)
 
 ## Projects
-
 ### 🏦 Banking Backend API
 - REST API for managing users, accounts, and transactions
 - Built with Spring Boot
 - Layered architecture (Controller / Service / Repository)
 - H2 (dev) → PostgreSQL (planned)
 - API tested with Postman
-- In progress: authentication (JWT) & money transfers
-
-### 🥗 NutriBites (Angular)
-- Frontend application for a digital healthy meal cookbook
-- State management using NgRx
-- Reactive programming with RxJS
-- Component-based architecture
-- Focus on UI structure and user experience
+- In progress: authentication (JWT), money transfers & Kubernetes deployment
 
 ## Currently Learning
-- Spring Security (JWT)
+- Spring Security & Spring Boot Security (JWT, OAuth2)
+- PostgreSQL (advanced usage & query optimization)
+- Kubernetes (container orchestration & deployment)
 - System Design basics
-- PostgreSQL (advanced usage)
 
 ## Contact
 🔗 [LinkedIn](https://www.linkedin.com/in/sevval-y/)
