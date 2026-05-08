@@ -5,7 +5,7 @@ Junior Software Developer | Java, Spring Boot & Angular
 - B.Sc. in Software Engineering
 - Focus on building scalable backend systems with Java & Spring Boot
 - Experience in frontend development with Angular
-- Currently developing a Banking Backend API
+- Currently developing a Banking Backend API with Docker & PostgreSQL
 
 ## Tech Stack
 ### Backend
@@ -20,14 +20,16 @@ Junior Software Developer | Java, Spring Boot & Angular
 - REST API for managing users, accounts, and transactions
 - Built with Spring Boot
 - Layered architecture (Controller / Service / Repository)
-- H2 (dev) → PostgreSQL (planned)
-- API tested with Postman
-- In progress: authentication (JWT), money transfers & Kubernetes deployment
+- PostgreSQL database
+- Containerized with Docker & Docker Compose
+- API documentation with Swagger UI
+- In progress: JWT authentication & Kubernetes deployment
 
 ## Currently Learning
-- Spring Security & Spring Boot Security (JWT, OAuth2)
+- Spring Security (JWT, OAuth2)
 - PostgreSQL (advanced usage & query optimization)
-- Kubernetes (container orchestration & deployment)
+- Docker & Docker Compose (containerized deployment)
+- Kubernetes (container orchestration)
 - System Design basics
 
 ## Contact
