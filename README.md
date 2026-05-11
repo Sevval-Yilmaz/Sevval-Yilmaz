@@ -2,28 +2,30 @@
 Junior Software Developer | Java, Spring Boot & Angular
 
 ## About Me
-- B.Sc. in Software Engineering
+- B.Sc. in Software Design  
 - Focus on building scalable backend systems with Java & Spring Boot
 - Experience in frontend development with Angular
-- Interested in backend architecture, clean code, and scalable system design
+- Backend development with Java and Spring Boot through real-world projects
 
 ## Tech Stack
 ### Backend
 ![Backend](https://skillicons.dev/icons?i=java,spring,postgres,hibernate)
 ### Frontend
-![Frontend](https://skillicons.dev/icons?i=angular,ts,html,css)
+![Frontend](https://skillicons.dev/icons?i=angular,react,ts,js)
 ### Tools
 ![Tools](https://skillicons.dev/icons?i=git,docker,postman)
 
 ## Projects
 ### 🏦 Banking Backend API
-- REST API for managing users, accounts, and transactions
-- Built with Spring Boot
-- Clean architecture approach (Controller / Use Case / Domain / Repository)
-- PostgreSQL database
-- Containerized with Docker & Docker Compose
-- API documentation with Swagger UI
-- In progress: improving OOP design and moving towards clean architecture
+- Spring Boot backend development  
+- Layered architecture (Controller / Service / Domain / Repository)  
+- Feature-based structure (user, account, transaction)  
+- Object-Oriented Programming (OOP) 
+- Pragmatic DDD-inspired domain modeling  
+- PostgreSQL database with JPA/Hibernate  
+- Docker & Docker Compose for containerized setup  
+- Swagger UI for API documentation
+- In progress: improving OOP design
 
 ## What I’m learning next
 - Spring Security (JWT basics)
